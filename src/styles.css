@@ -43,7 +43,26 @@ h3 {
   padding: 15px 30px;
 }
 
+.project-content {
+  padding: 120px 60px;
+}
+
 .project-content h2 {
   font-family: var(--heading-font-family);
   font-size: 35px;
+}
+
+.project-content p {
+  font-size: 16px;
+  line-height: 30px;
+}
+
+@media (max-width: 900px) {
+  .hero h1 {
+    font-size: 85px;
+  }
+
+  .project-content {
+    padding: 0 5px;
+  }
 }
