@@ -27,7 +27,7 @@ h3 {
 
 .hero {
   background-color: var(--background-hero-color);
-  padding: 160px 20px;
+  padding: 160px 5px;
 }
 
 .hero p {
