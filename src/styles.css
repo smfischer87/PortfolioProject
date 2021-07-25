@@ -92,6 +92,10 @@ h3 {
   border-radius: 5px;
 }
 
+.contact-content {
+  text-align: left;
+}
+
 @media (max-width: 900px) {
   .hero h1 {
     font-size: 85px;
