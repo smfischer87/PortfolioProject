@@ -60,7 +60,7 @@ nav a.active {
 
 .hero {
   background-color: var(--background-hero-color);
-  padding: 160px 5px;
+  padding: 100px 5px;
 }
 
 .hero p {
@@ -95,7 +95,7 @@ nav a.active {
 }
 
 .content-container {
-  padding: 130px 5px;
+  padding: 100px 5px;
 }
 
 .content {
@@ -123,6 +123,9 @@ nav a.active {
   font-family: var(--default-font-family);
 }
 
+.project-heading {
+  font-size: 55px;
+}
 .about-image {
   max-width: 538px;
   max-height: 538px;
