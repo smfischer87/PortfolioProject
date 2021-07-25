@@ -57,6 +57,30 @@ h3 {
   line-height: 30px;
 }
 
+.about-section {
+  padding: 160px 5px;
+}
+
+.about-section h1 {
+  font-size: 64px;
+}
+
+.about-section h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.about-section p {
+  line-height: 30px;
+  font-family: var(--default-font-family);
+}
+
+.about-image {
+  max-width: 538px;
+  max-height: 538px;
+  border-radius: 5px;
+}
+
 @media (max-width: 900px) {
   .hero h1 {
     font-size: 85px;
